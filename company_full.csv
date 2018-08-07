@@ -1,243 +1,243 @@
-company,one_donation,size_10.0,size_1000.0,size_10000.0,size_10001.0,size_200.0,size_50.0,size_500.0,size_5000.0,state_California,state_New York,state_underdeveloped,type_applied,type_bus,type_comm,type_edu-health,type_fin,type_food,type_other,type_sale,type_soft,type_web
-32BJ SEIU,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-AFIP,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-ALL IN ,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-AT&T Foundry,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-Acxiom,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-"Adams & Company Real Estate, LLC",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-"Addepar, Inc.",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-Adore Me,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
-Aera Technology Inc.,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Airbnb,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
-Amazon,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
-Aramark SF,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Audentes Therapeutics,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-"Avametric, suite 1001",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
-Aviat Networks,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-BCG Digital Ventures,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-BGB Group,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-BarkBox,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
-Bash Creative,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-BentoBox,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-Better Mortgage,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-BetterCloud,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-Big Health,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-Bird Brain Productions,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-"Bird Rides, Inc.",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Bird.co,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Blockchain,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
-BloomReach Mt.View,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Bonsai Berkeley,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Boomerang Commerce Mtn.View Ste100,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Bounce exchange ,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-Boxed,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
-Braze SF Office,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-Bulger Partners,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
-CA VENTURES suite 2100,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-CYNGN Palo Alto,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Cadre (5th Fl),1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-Cafe Blue Door,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Calm,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-Campaign Monitor,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Capgemini,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Captricity,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Castlight Health,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-Catchpoint,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-Cater2.me,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Century Pacific North America Enterprise Inc.,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Chapter Three,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Chugh LLP,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-CircleCI,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-Climb Credit NYC Ste. 701,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-Codecademy,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
-Compass Headquarters,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-Computer History Museum,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-Cookie DO. Inc.,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
-Cosmo Street Editorial ,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-CrowdStar,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-Crunchbase,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Curiodysse,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-Daily Harvest,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
-Darylynn Eyewear,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
-Datadog,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-Dataminr,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-Demos,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-Devil's Canyon Brewing Company,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-DigitalOcean,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-Dishcraft Robotics,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Dolby Laboratories / Epicurean Group,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
-DoorDash,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Drama Fever/WB Digital New York Office,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-Driver,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-Drone Deploy,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Dropbox,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
-EAT Club,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Eatsa,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Edelman,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Ellevate Network,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
-Engel Institute & Dental Center ,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
-Fare Resources,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Farmhill,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-"Fauna, Inc",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Fearless Cafe,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-First Round Capital,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-Flexport NYC,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-Fluent LLC,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-Formation SF HQ,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Fossil Group,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Fullscreen Media,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-Fungible Inc,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-GREE,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0
-GTB,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
-Genius,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-Genius Media,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-GetGo,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0
-Ginger.io SF HQ,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-Giphy,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-Gizmodo Media,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-Global Gourmet Catering,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Global Logistic Properties ,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
-Glossier HQ,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
-GoDaddy,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-GoFundMe,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Greylock Partners,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Growers Refrigeration,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
-HEM Distributor Inc,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
-HVF Inc,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Habit.com,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Harry's,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
-Headspace (HQ),0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-Healthline SF Office,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-HighFive,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-Homegrown Events,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-HouseCanary,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Houzz,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0
-Hygge,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Imgur,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-Impact,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-Indeed,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-"Index Exchange, Inc",1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-"Innovative Baking, LLC",1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
-Innovid,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-Intermedia Lab,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
-Invoice2go,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Kaiser Permanente,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
-Kitty Hawk,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Kony,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
-LaSalle Capital,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Laserlike,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-LeadGenius,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Lever,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Livongo,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
-Loan Depot office,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-MKTG,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Mapbox,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Mark43,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
-MeUndies HQ,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
-"Mekanism, 35th Floor",1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-Metromile,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Mintigo,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-"Moogsoft, Inc.",0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Motion Industries ,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
-MuleSoft,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
-New Mountain Capital,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-Norwest Venture Partners,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-OR360,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-Octopart Inc,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-OkCupid,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-Omada Health,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-Open Sky,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
-OpenDNS,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Opendoor,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Opterra Energy Services,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Oscar Insurance,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
-Outbrain,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-OvaNove,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-PCH,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-"PYE, INC.",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Pagerduty,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Paypal,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Peppercomm NYC,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-Pierry Inc.,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Platterz,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
-Plethora,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Poppy's Catering,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
-Postmates,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Project Homeless Connect,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-PulsePoint,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-Quotient,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Rad Urban / Nautilus Group,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Rapid7,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
-Ready Pac Foods,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
-Reelio 121 E 24th St,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-Ripe,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
-Rubicon Project,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-Rubicon Project NYC,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-SEVENROOMS,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-SFO,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
-STUBHUB,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
-SaaStr CSS,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-Samsara,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Savory,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
-"Say Say K, Inc",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-Scott & Scott,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-Scribd,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Seat Release,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-SeatGeek,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
-Shotwell Location,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
-Shutterstock,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
-Simply Good Jars,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
-Slack,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0
-Smartbiz,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-SoundCloud,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0
-Spotify,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0
-Sprout Social,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0
-Staten Island Academy,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
-Stella Service ,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
-Stella.ai,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Stripes Group,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-Stupski Foundation,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-SugarCRM,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Symantec,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-T Rowe Price,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-T. Rowe Price ,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-Takt,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Teachable,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
-TechValidate Software,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-The Line,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
-The Town Kitchen,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-The Woo,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Thoma Bravo,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Toast Inc.,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
-Trello 25th Floor,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-TrueCar,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Tumblr NYC Office,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-Twitch,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-Twitter NYC,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0
-Udacity,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-UpStart,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-UserVoice,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Venice Office,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Vita coco,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Vungle SF,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Walmart,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
-WeWork,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
-White Ops ,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
-Yahoo NYC,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-YieldMo,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-Yipitdata,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-ZMC,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-ZYMERGEN,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-ZeroCater,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
-Zesty SF,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Zillow NYC,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
-Zinc,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-Zoox,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-Zymergen Office,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-drive.ai,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-fresh approach,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-illy,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-la brea,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-schoola,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-sweetgreen,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
-"thoughtbot, inc",0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+company,one_donation,size,state,type
+32BJ SEIU,1,500.0,New York,other
+AFIP,1,10.0,underdeveloped,fin
+ALL IN ,0,10.0,California,food
+AT&T Foundry,0,50.0,California,comm
+Acxiom,0,5000.0,New York,bus
+"Adams & Company Real Estate, LLC",0,200.0,New York,fin
+"Addepar, Inc.",0,500.0,New York,fin
+Adore Me,1,200.0,New York,sale
+Aera Technology Inc.,0,200.0,California,applied
+Airbnb,0,5000.0,New York,sale
+Amazon,1,10001.0,underdeveloped,sale
+Aramark SF,0,10001.0,California,food
+Audentes Therapeutics,0,200.0,California,edu-health
+"Avametric, suite 1001",0,50.0,California,sale
+Aviat Networks,1,1000.0,California,comm
+BCG Digital Ventures,0,500.0,California,fin
+BGB Group,0,500.0,New York,bus
+BarkBox,0,200.0,New York,sale
+Bash Creative,0,10.0,California,other
+BentoBox,0,50.0,New York,web
+Better Mortgage,0,200.0,New York,fin
+BetterCloud,1,200.0,New York,web
+Big Health,0,200.0,California,edu-health
+Bird Brain Productions,1,50.0,California,comm
+"Bird Rides, Inc.",0,50.0,California,other
+Bird.co,0,50.0,California,soft
+Blockchain,1,200.0,New York,soft
+BloomReach Mt.View,1,500.0,California,web
+Bonsai Berkeley,1,50.0,California,applied
+Boomerang Commerce Mtn.View Ste100,0,200.0,California,applied
+Bounce exchange ,1,500.0,New York,bus
+Boxed,1,200.0,New York,food
+Braze SF Office,0,200.0,California,comm
+Bulger Partners,0,50.0,underdeveloped,bus
+CA VENTURES suite 2100,0,500.0,underdeveloped,fin
+CYNGN Palo Alto,0,50.0,California,applied
+Cadre (5th Fl),1,200.0,New York,fin
+Cafe Blue Door,0,10.0,California,food
+Calm,1,50.0,California,edu-health
+Campaign Monitor,1,200.0,California,bus
+Capgemini,1,10001.0,California,bus
+Captricity,0,200.0,California,applied
+Castlight Health,0,1000.0,California,edu-health
+Catchpoint,1,200.0,New York,applied
+Cater2.me,1,200.0,California,food
+Century Pacific North America Enterprise Inc.,1,10000.0,California,food
+Chapter Three,0,50.0,California,web
+Chugh LLP,0,500.0,California,bus
+CircleCI,0,200.0,California,comm
+Climb Credit NYC Ste. 701,1,50.0,New York,fin
+Codecademy,0,200.0,New York,edu-health
+Compass Headquarters,0,500.0,New York,fin
+Computer History Museum,1,50.0,California,edu-health
+Cookie DO. Inc.,0,10.0,New York,food
+Cosmo Street Editorial ,1,200.0,California,applied
+CrowdStar,1,200.0,California,comm
+Crunchbase,0,50.0,California,web
+Curiodysse,1,50.0,California,edu-health
+Daily Harvest,0,50.0,New York,food
+Darylynn Eyewear,1,10.0,New York,sale
+Datadog,0,1000.0,New York,other
+Dataminr,0,500.0,New York,applied
+Demos,0,50.0,New York,other
+Devil's Canyon Brewing Company,0,10.0,California,food
+DigitalOcean,1,500.0,New York,web
+Dishcraft Robotics,0,50.0,California,applied
+Dolby Laboratories / Epicurean Group,0,5000.0,California,applied
+DoorDash,0,500.0,California,food
+Drama Fever/WB Digital New York Office,0,200.0,New York,comm
+Driver,0,200.0,California,edu-health
+Drone Deploy,0,200.0,California,soft
+Dropbox,0,5000.0,New York,web
+EAT Club,0,1000.0,California,food
+Eatsa,1,200.0,California,food
+Edelman,1,10000.0,California,bus
+Ellevate Network,1,10.0,New York,edu-health
+Engel Institute & Dental Center ,1,50.0,underdeveloped,other
+Fare Resources,0,50.0,California,food
+Farmhill,1,200.0,California,food
+"Fauna, Inc",1,50.0,California,web
+Fearless Cafe,0,10.0,California,food
+First Round Capital,0,50.0,New York,fin
+Flexport NYC,0,1000.0,New York,fin
+Fluent LLC,1,10.0,New York,other
+Formation SF HQ,1,200.0,California,applied
+Fossil Group,0,10001.0,California,bus
+Fullscreen Media,0,1000.0,New York,comm
+Fungible Inc,0,50.0,California,soft
+GREE,0,5000.0,California,comm
+GTB,1,5000.0,underdeveloped,bus
+Genius,0,50.0,New York,comm
+Genius Media,0,50.0,New York,comm
+GetGo,1,5000.0,California,comm
+Ginger.io SF HQ,0,50.0,California,edu-health
+Giphy,0,200.0,New York,comm
+Gizmodo Media,0,200.0,New York,bus
+Global Gourmet Catering,0,1000.0,California,food
+Global Logistic Properties ,1,5000.0,underdeveloped,fin
+Glossier HQ,0,200.0,New York,sale
+GoDaddy,0,10000.0,California,web
+GoFundMe,0,500.0,California,other
+Greylock Partners,0,200.0,California,fin
+Growers Refrigeration,0,10.0,California,sale
+HEM Distributor Inc,0,10.0,California,sale
+HVF Inc,1,50.0,California,applied
+Habit.com,0,10.0,California,web
+Harry's,0,1000.0,New York,food
+Headspace (HQ),0,200.0,California,edu-health
+Healthline SF Office,1,500.0,California,edu-health
+HighFive,1,200.0,California,comm
+Homegrown Events,1,10.0,California,food
+HouseCanary,0,200.0,California,fin
+Houzz,0,5000.0,California,soft
+Hygge,1,10.0,underdeveloped,fin
+Imgur,0,200.0,California,comm
+Impact,0,50.0,New York,applied
+Indeed,0,10000.0,New York,web
+"Index Exchange, Inc",1,500.0,New York,bus
+"Innovative Baking, LLC",1,50.0,underdeveloped,food
+Innovid,1,500.0,New York,bus
+Intermedia Lab,0,50.0,New York,soft
+Invoice2go,1,200.0,California,soft
+Kaiser Permanente,1,10001.0,underdeveloped,edu-health
+Kitty Hawk,0,500.0,California,applied
+Kony,1,5000.0,underdeveloped,web
+LaSalle Capital,1,50.0,underdeveloped,fin
+Laserlike,0,50.0,California,soft
+LeadGenius,1,50.0,California,applied
+Lever,0,200.0,California,soft
+Livongo,0,200.0,underdeveloped,edu-health
+Loan Depot office,1,10000.0,California,fin
+MKTG,0,1000.0,California,bus
+Mapbox,1,500.0,California,applied
+Mark43,0,200.0,New York,soft
+MeUndies HQ,0,200.0,California,sale
+"Mekanism, 35th Floor",1,200.0,New York,bus
+Metromile,0,200.0,California,fin
+Mintigo,0,200.0,California,bus
+"Moogsoft, Inc.",0,200.0,California,applied
+Motion Industries ,1,10000.0,underdeveloped,applied
+MuleSoft,0,5000.0,California,web
+New Mountain Capital,0,200.0,New York,fin
+Norwest Venture Partners,0,200.0,California,fin
+OR360,1,50.0,California,edu-health
+Octopart Inc,1,50.0,New York,applied
+OkCupid,0,50.0,New York,comm
+Omada Health,0,500.0,California,edu-health
+Open Sky,1,200.0,New York,sale
+OpenDNS,0,1000.0,California,soft
+Opendoor,0,1000.0,California,fin
+Opterra Energy Services,1,500.0,California,applied
+Oscar Insurance,0,1000.0,New York,edu-health
+Outbrain,0,1000.0,New York,bus
+OvaNove,1,10.0,California,applied
+PCH,0,1000.0,California,other
+"PYE, INC.",1,10.0,California,other
+Pagerduty,0,500.0,California,bus
+Paypal,1,10001.0,California,other
+Peppercomm NYC,1,200.0,New York,comm
+Pierry Inc.,0,200.0,California,bus
+Platterz,1,200.0,New York,food
+Plethora,0,200.0,California,applied
+Poppy's Catering,0,50.0,New York,food
+Postmates,0,500.0,California,food
+Project Homeless Connect,1,50.0,California,other
+PulsePoint,0,200.0,New York,bus
+Quotient,0,200.0,California,web
+Rad Urban / Nautilus Group,0,200.0,California,applied
+Rapid7,1,5000.0,underdeveloped,web
+Ready Pac Foods,1,5000.0,New York,food
+Reelio 121 E 24th St,1,50.0,New York,bus
+Ripe,0,50.0,New York,food
+Rubicon Project,0,1000.0,New York,bus
+Rubicon Project NYC,0,1000.0,New York,bus
+SEVENROOMS,1,50.0,New York,comm
+SFO,0,5000.0,California,other
+STUBHUB,1,5000.0,California,sale
+SaaStr CSS,1,10.0,California,comm
+Samsara,0,500.0,California,applied
+Savory,1,200.0,New York,food
+"Say Say K, Inc",0,50.0,California,edu-health
+Scott & Scott,0,10.0,New York,bus
+Scribd,0,200.0,California,web
+Seat Release,0,50.0,New York,other
+SeatGeek,0,200.0,New York,sale
+Shotwell Location,0,50.0,California,sale
+Shutterstock,0,5000.0,New York,sale
+Simply Good Jars,1,50.0,underdeveloped,food
+Slack,0,5000.0,New York,comm
+Smartbiz,0,200.0,California,bus
+SoundCloud,1,500.0,New York,soft
+Spotify,1,5000.0,New York,comm
+Sprout Social,0,500.0,underdeveloped,bus
+Staten Island Academy,1,200.0,New York,edu-health
+Stella Service ,0,200.0,New York,soft
+Stella.ai,1,50.0,California,applied
+Stripes Group,0,50.0,New York,fin
+Stupski Foundation,1,10.0,California,food
+SugarCRM,0,1000.0,California,other
+Symantec,1,10001.0,California,web
+T Rowe Price,0,10000.0,New York,other
+T. Rowe Price ,0,10000.0,New York,fin
+Takt,0,10.0,California,soft
+Teachable,0,200.0,New York,edu-health
+TechValidate Software,0,200.0,California,bus
+The Line,1,50.0,New York,sale
+The Town Kitchen,0,10.0,California,food
+The Woo,0,50.0,California,bus
+Thoma Bravo,0,50.0,underdeveloped,fin
+Toast Inc.,1,1000.0,underdeveloped,food
+Trello 25th Floor,0,200.0,New York,applied
+TrueCar,0,1000.0,California,soft
+Tumblr NYC Office,0,500.0,New York,comm
+Twitch,0,1000.0,California,comm
+Twitter NYC,1,5000.0,New York,comm
+Udacity,1,200.0,California,applied
+UpStart,1,200.0,California,fin
+UserVoice,1,200.0,California,web
+Venice Office,0,10.0,California,bus
+Vita coco,0,500.0,California,food
+Vungle SF,0,200.0,California,bus
+Walmart,0,10001.0,underdeveloped,sale
+WeWork,0,5000.0,California,fin
+White Ops ,0,200.0,New York,soft
+Yahoo NYC,0,10001.0,New York,comm
+YieldMo,0,200.0,New York,bus
+Yipitdata,1,200.0,New York,applied
+ZMC,0,50.0,New York,web
+ZYMERGEN,0,500.0,California,applied
+ZeroCater,0,200.0,New York,food
+Zesty SF,0,200.0,California,food
+Zillow NYC,0,5000.0,New York,fin
+Zinc,1,50.0,California,comm
+Zoox,0,500.0,California,applied
+Zymergen Office,1,500.0,California,applied
+drive.ai,0,200.0,California,applied
+fresh approach,0,50.0,California,food
+illy,0,10.0,California,other
+la brea,0,500.0,California,food
+schoola,1,50.0,California,edu-health
+sweetgreen,0,5000.0,California,food
+"thoughtbot, inc",0,200.0,California,applied
